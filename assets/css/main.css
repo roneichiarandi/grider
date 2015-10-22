@@ -197,6 +197,72 @@ body *zoom:1:after {
 }
 @media (max-width: 580px) {
 }
+.offset1 {
+  margin-left: 8.573717948717949%;
+}
+@media (max-width: 580px) {
+  .offset1,
+.offset1 {
+    margin-left: 0.2403846153846154%;
+  }
+}
+.offset2 {
+  margin-left: 16.907051282051285%;
+}
+@media (max-width: 580px) {
+  .offset2,
+.offset2 {
+    margin-left: 0.2403846153846154%;
+  }
+}
+.offset3 {
+  margin-left: 25.240384615384613%;
+}
+@media (max-width: 580px) {
+  .offset3,
+.offset3 {
+    margin-left: 0.2403846153846154%;
+  }
+}
+.offset4 {
+  margin-left: 33.57371794871795%;
+}
+@media (max-width: 580px) {
+  .offset4,
+.offset4 {
+    margin-left: 0.2403846153846154%;
+  }
+}
+.offset5 {
+  margin-left: 41.907051282051285%;
+}
+@media (max-width: 580px) {
+  .offset5,
+.offset5 {
+    margin-left: 0.2403846153846154%;
+  }
+}
+.offset6 {
+  margin-left: 50.24038461538461%;
+}
+@media (max-width: 580px) {
+  .offset6,
+.offset6 {
+    margin-left: 0.2403846153846154%;
+  }
+}
+@media (max-width: 580px) {
+}
+@media (max-width: 580px) {
+}
+@media (max-width: 580px) {
+}
+@media (max-width: 580px) {
+}
+@media (max-width: 580px) {
+}
+@media (max-width: 580px) {
+}
 @media (max-width: 880px) {
   .box-logo,
   .box-meta {
